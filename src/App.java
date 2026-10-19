@@ -32,7 +32,7 @@ public class App
         // write your loop here
 
 
-        System.out.println("1Part 2: In 100 pulls, you got " + rareCount + " rare items.");
+        System.out.println("Part 2: In 100 pulls, you got " + rareCount + " rare items.");
 
         // ===== TODO 3: Reflection =====
         // Run your program at least 5 times first. Then answer below in
