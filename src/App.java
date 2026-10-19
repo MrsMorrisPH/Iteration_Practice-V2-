@@ -21,7 +21,7 @@ public class App
         // write your loop here
 
 
-        System.out.println("Part 1: It took " + pullsToRare + " pulls to get a rare item.");
+        System.out.println("xPart 1: It took " + pullsToRare + " pulls to get a rare item.");
 
         // ===== TODO 2: Exactly 100 Pulls =====
         // Pull exactly 100 times. Count how many were rare.
